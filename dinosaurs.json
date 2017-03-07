@@ -1,0 +1,22 @@
+{
+  "dinosaurs" : [
+    {
+      "name" : "Rex",
+      "type" : "T-Rex",
+      "food" : "smaller dinosaurs",
+      "url" : "https://res.cloudinary.com/teepublic/image/private/s--cceoLWRG--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1471472608/production/designs/637762_1.jpg"
+    },
+    {
+      "name" : "Stanky",
+      "type" : "Stagasarous",
+      "food" : "salads",
+      "url" : "http://orig06.deviantart.net/19dc/f/2012/336/3/e/godzilla_is_feel_so_chubby_by_mcsaurus-d5mu8mo.jpg"
+    },
+    {
+      "name" : "Pterry",
+      "type" : "Pterodactyl",
+      "food" : "salads and steaks",
+      "url" : "http://previews.123rf.com/images/irwanjos/irwanjos1409/irwanjos140900020/31297515-Cute-pterodactyl-cartoon-Stock-Vector.jpg"
+    }
+  ]
+}
